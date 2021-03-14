@@ -1,0 +1,59 @@
+html, body {
+    padding-left: 5em;
+    padding-top: 3em;
+    
+}
+
+@import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap/%27");
+
+
+    a:link {
+        color: rgb(0, 0, 0);
+        background-color: transparent;
+        text-decoration: none;
+      }
+      a:visited {
+        color: rgb(0, 0, 0);
+        background-color: transparent;
+        text-decoration: none;
+      }
+      a:hover {
+        color: rgb(54, 54, 54);
+        background-color: transparent;
+        text-decoration: none;
+      }
+              .padding_class {
+                  padding: 3rem;
+              }
+              a { text-decoration: none; }
+                  
+@font-face {
+    font-family: 'roboto';
+    src: url(fonts/Roboto-Thin.ttf);
+    font-style: normal;
+    font-weight: 100;
+}
+
+@font-face {
+  font-family: face;
+  src: url(fonts/Roboto-Bold.ttf);
+
+}
+
+@import url('https://rsms.me/inter/inter.css');
+html { font-family: 'Inter', sans-serif; }
+@supports (font-variation-settings: normal) {
+  html { font-family: 'Inter var', sans-serif; }
+}
+
+h3 {
+    font-family:Inter-Light;
+    font-weight: 200;
+}
+h1 {
+  font-family: Inter-Bold;
+  font-weight: 100;
+}
+h1 {
+  padding-left: 1.30em;
+ }
