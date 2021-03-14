@@ -1,0 +1,56 @@
+html, body {
+    padding-left: 5em;
+    padding-top: 3em;
+    
+}
+
+@import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap/%27");
+
+
+    a:link {
+        color: rgb(0, 0, 0);
+        background-color: transparent;
+        text-decoration: none;
+      }
+      a:visited {
+        color: rgb(0, 0, 0);
+        background-color: transparent;
+        text-decoration: none;
+      }
+      a:hover {
+        color: rgb(54, 54, 54);
+        background-color: transparent;
+        text-decoration: none;
+      }
+              .padding_class {
+                  padding: 3rem;
+              }
+              a { text-decoration: none; }
+                  
+@font-face {
+    font-family: 'roboto';
+    src: url(fonts/Roboto-Bold.ttf);
+    font-style: normal;
+    font-weight: 100;
+
+    font-family: 'header';
+    src: url(fonts/Roboto-Bold.ttf);
+    font-style: normal;
+    font-weight: 100;
+
+    font-family: 'Times New Roman', Times, serif;
+    font-style: normal;
+    font-weight: 100;
+}
+
+h3 {
+    font-family:roboto;
+    font-weight: 100;
+}
+h1 {
+  font-family: serif;
+  font-weight: 100;
+}
+h1 {
+  padding-left: 1.30em;
+ }
