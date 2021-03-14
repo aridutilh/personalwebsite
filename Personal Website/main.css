@@ -29,26 +29,29 @@ html, body {
                   
 @font-face {
     font-family: 'roboto';
-    src: url(fonts/Roboto-Bold.ttf);
+    src: url(fonts/Roboto-Thin.ttf);
     font-style: normal;
     font-weight: 100;
+}
 
-    font-family: 'header';
-    src: url(fonts/Roboto-Bold.ttf);
-    font-style: normal;
-    font-weight: 100;
+@font-face {
+  font-family: face;
+  src: url(fonts/Roboto-Bold.ttf);
 
-    font-family: 'Times New Roman', Times, serif;
-    font-style: normal;
-    font-weight: 100;
+}
+
+@import url('https://rsms.me/inter/inter.css');
+html { font-family: 'Inter', sans-serif; }
+@supports (font-variation-settings: normal) {
+  html { font-family: 'Inter var', sans-serif; }
 }
 
 h3 {
-    font-family:roboto;
-    font-weight: 100;
+    font-family:Inter-Light;
+    font-weight: 200;
 }
 h1 {
-  font-family: serif;
+  font-family: Inter-Bold;
   font-weight: 100;
 }
 h1 {
