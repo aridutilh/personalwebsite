@@ -6,6 +6,6 @@
   
   - HTML
   - CSS
-  - JS
+  - JS (not yet, but I'm pretty sure that's required to make a site)
   
   Eventually I'll branch into things like Vue and React, but I thought I might as well lay the groundwork with this project first. </p>
