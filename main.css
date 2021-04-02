@@ -1,31 +1,36 @@
-html, body {
+html,
+body {
   padding-left: 5em;
-  padding-top: 3em;
-  
-  
+  padding-top: 5em;
+
+
 }
 
 @import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap/%27");
 
 
-  a:link {
-      color: rgb(0, 0, 0);
-      background-color: transparent;
-      text-decoration: none;
-    }
-    a:visited {
-      color: rgb(0, 0, 0);
-      background-color: transparent;
-      text-decoration: none;
-    }
-    a:hover {
-      color: rgb(54, 54, 54);
-      background-color: transparent;
-      text-decoration: none;
-    }
-           
-            a { text-decoration: none; }
-                
+a:link {
+  color: rgb(0, 0, 0);
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+  color: rgb(0, 0, 0);
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: rgb(54, 54, 54);
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a {
+  text-decoration: none;
+}
+
 @font-face {
   font-family: 'roboto';
   src: url(fonts/Roboto-Thin.ttf);
@@ -34,38 +39,46 @@ html, body {
 }
 
 @font-face {
-font-family: face;
-src: url(fonts/Roboto-Bold.ttf);
+  font-family: face;
+  src: url(fonts/Roboto-Bold.ttf);
 
 }
 
 @import url('https://rsms.me/inter/inter.css');
-html { font-family: 'Inter', sans-serif; }
+
+html {
+  font-family: 'Inter', sans-serif;
+}
+
 @supports (font-variation-settings: normal) {
-html { font-family: 'Inter var', sans-serif; }
+  html {
+    font-family: 'Inter var', sans-serif;
+  }
 }
 
 h3 {
-  font-family:Inter-Light;
+  font-family: Inter-Light;
   font-weight: 200;
 }
+
 h1 {
-font-family: Inter-Bold;
-font-weight: 100;
+  font-family: Inter-Bold;
+  font-weight: 100;
 
 }
 
-h1,h3{
-padding: 2% 0;
+h1,
+h3 {
+  padding: 2% 0;
 }
 
-.main{
-margin: 0 10%;
+.main {
+  margin: 0 10%;
 }
 
-#icon-container{
-  display:flex;
+#icon-container {
+  display: flex;
   flex-flow: row wrap;
   justify-content: space-between;
-width: 150px;
+  width: 150px;
 }
