@@ -1,12 +1,16 @@
 
-        <h1> 9/5/21 - Building this Website </h1> 
-
+        <h1> 
+        9/5/21 - Building this Website </h1> 
+        </h1>
+        
     <h3>
     Prior to starting this site, I knew absolutely nothing about Web Development. I still don't, but at least I'm slightly less clueless than before. I'm using basic Html and CSS to make this portfolio site of mine, nothing too fancy! 
     </h3>
+
 <h2>
 Day 1
 </h2>
+
     <h3>
     I spent the first day pretty much just setting up Visual Studio, creating a Github Repo, and figuring out basic Markdown and HTML for text formatting. 
 
