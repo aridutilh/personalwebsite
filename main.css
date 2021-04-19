@@ -4,7 +4,6 @@ body {
   padding-top: 5em;
 }
 
-@import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap/%27");
 
 a:link {
   color: rgb(0, 0, 0);
@@ -32,19 +31,6 @@ h4 li {
   display: inline-block;
   margin-right: 20px;
 	font-size: 1em;
-}
-
-@font-face {
-  font-family: 'roboto';
-  src: url(fonts/Roboto-Thin.ttf);
-  font-style: normal;
-  font-weight: 100;
-}
-
-@font-face {
-  font-family: face;
-  src: url(fonts/Roboto-Bold.ttf);
-
 }
 
 @import url('https://rsms.me/inter/inter.css');
