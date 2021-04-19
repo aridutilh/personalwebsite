@@ -1,29 +1,4 @@
-<!DOCTYPE html>
-  <html>
-        <head>
 
-          <title> Blog - 9/5/21 </title>
-
-            <link rel="stylesheet" href="main.css">
-
-            <link rel="icon" type="image/png" href="./images/waving.png">
-
-            <script src="https://kit.fontawesome.com/22859885a2.js" crossorigin="anonymous"></script>
-         </head>
-
-
-         
-
-    <body>
-      
-        <div class="main">
-       
-        </a>  
-        
-    <a href="page4.html"<h4><light>  <i class="fas fa-long-arrow-alt-left">
-    </i> Back</light> </h4> 
-        
-  </a>
         <h1> 9/5/21 - Building this Website </h1> 
 
     <h3>
