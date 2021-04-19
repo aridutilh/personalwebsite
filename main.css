@@ -2,12 +2,9 @@ html,
 body {
   padding-left: 5em;
   padding-top: 5em;
-
-
 }
 
 @import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap/%27");
-
 
 a:link {
   color: rgb(0, 0, 0);
@@ -29,6 +26,12 @@ a:hover {
 
 a {
   text-decoration: none;
+}
+
+h4 li {
+  display: inline-block;
+  margin-right: 20px;
+	font-size: 1em;
 }
 
 @font-face {
@@ -59,18 +62,26 @@ html {
 h3 {
   font-family: Inter-Light;
   font-weight: 200;
+	margin: 0.5em 0em; /*Change the first value to change the y-axis margin*/
 }
 
 h1 {
   font-family: Inter-Bold;
   font-weight: 100;
-
+	margin: 0.5em 0em; /*Change the first value to change the y-axis margin*/
 }
 
 h1,
 h3 {
-  padding: 2% 0;
+  padding: 3% 0;
 }
+h4 {
+  font-family: Inter-Medium;
+  font-weight: 100;
+  word-spacing:  30px;
+
+}
+
 
 .main {
   margin: 0 10%;
@@ -81,4 +92,69 @@ h3 {
   flex-flow: row wrap;
   justify-content: space-between;
   width: 150px;
+}
+
+.row {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 0 4px;
+}
+
+/* Create four equal columns that sits next to each other */
+
+.column {
+  flex: 25%;
+  max-width: 25%;
+  padding: 0 4px;
+}
+
+.column img {
+  margin-top: 8px;
+  vertical-align: middle;
+  width: 100%;
+}
+
+/* Responsive layout - makes a two column-layout instead of four columns */
+
+@media screen and (max-width: 800px) {
+  .column {
+    flex: 50%;
+    max-width: 50%;
+  }
+}
+
+/* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
+
+@media screen and (max-width: 600px) {
+  .column {
+    flex: 100%;
+    max-width: 100%;
+  }
+}
+mark { 
+  background-color: rgb(198, 169, 214);
+  color: rgb(211, 8, 8);
+}
+
+.container {
+  flex-wrap: wrap;
+  border-color: rgb(7, 7, 7);
+  border-style: solid;
+  border-radius: 10px;
+  max-width: 70%;
+  border-width: 1px;
+  padding: 2rem;
+  margin-bottom: 10px;
+
+}
+
+.container {
+  flex-wrap: wrap;
+  border-color: rgb(7, 7, 7);
+  border-style: solid;
+  border-radius: 10px;
+  max-width: 70%;
+  border-width: 1px;
+  padding: 2rem;
+  margin-bottom: 10px;
 }
