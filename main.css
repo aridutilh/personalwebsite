@@ -33,40 +33,13 @@ h4 li {
 	font-size: 1em;
 }
 
-@import url('https://rsms.me/inter/inter.css');
 
-html {
-  font-family: 'Inter', sans-serif;
-}
-
-@supports (font-variation-settings: normal) {
-  html {
-    font-family: 'Inter var', sans-serif;
-  }
-}
-
-h3 {
-  font-family: Inter-Light;
+h3, h4 {
+  font-family: Inter-Medium;
   font-weight: 200;
 	margin: 0.5em 0em; /*Change the first value to change the y-axis margin*/
 }
 
-h1 {
-  font-family: Inter-Bold;
-  font-weight: 100;
-	margin: 0.5em 0em; /*Change the first value to change the y-axis margin*/
-}
-
-h1,
-h3 {
-  padding: 3% 0;
-}
-h4 {
-  font-family: Inter-Medium;
-  font-weight: 100;
-  word-spacing:  30px;
-
-}
 
 
 .main {
@@ -143,4 +116,13 @@ mark {
   border-width: 1px;
   padding: 2rem;
   margin-bottom: 10px;
+}
+
+body{
+  font-family: 'Inter', sans-serif;
+}
+
+h1,
+h3 {
+  padding: 3% 0;
 }
