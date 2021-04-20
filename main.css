@@ -34,7 +34,7 @@ h4 li {
 }
 
 
-h3, h4 {
+h4, h3 {
   font-family: Inter-Medium;
   font-weight: 200;
 	margin: 0.5em 0em; /*Change the first value to change the y-axis margin*/
