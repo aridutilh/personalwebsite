@@ -4,7 +4,7 @@ Written in Html & CSS.
 
 ## 🔨 Tools I'm using
 
-I'm using VSC, Replit, Notion, JSFiddle, & W3Schools.
+I'm using [VSC](https://visualstudiocode.com), [Replit](https://replit.com), [Notion](https://notion.so), [JSFiddle](https://jsfiddle.io), & [W3Schools](https://w3schools.com).
 
 ## 🌐 Domain & Host
 
