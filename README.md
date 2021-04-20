@@ -11,9 +11,9 @@
 </h2>
 
 <h4>
-  Visual Studio Code
-  Replit
-  Github (obviously)
-  Fontawesome
-  Inter Font Family
+  - Visual Studio Code
+  - Replit
+  - Github (obviously)
+  - Fontawesome
+  - Inter Font Family
 </h4>
