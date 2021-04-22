@@ -29,11 +29,11 @@ a {
 }
 
 h3 {
-  font-family: Inter-Medium;
-  font-weight: 200;
+  font-family: "Inter";
+  font-weight: 400;
   color: rgb(51, 51, 51);
 	margin: 1em 0em; /*Change the first value to change the y-axis margin*/
-  padding: 3% 0;
+  padding: 2% 0;
 }
 
 h4 li {
@@ -43,24 +43,24 @@ h4 li {
 }
 
 h5 {
-  font-family: Inter-Medium;
-  font-weight: 200;
+  font-family: "Inter";
+  font-weight: 500;
   margin: 1em 2em;
   color: rgb(58, 58, 58);
 }
 
 h2 {
-  font-family: Inter-Bold;
-  font-weight: 200;
+  font-family: "Inter";
+  font-weight: 650;
 	margin: 1em 0em; /*Change the first value to change the y-axis margin*/
   margin-bottom: -50px;
-  padding: 3% 0;
+  padding: 2% 0;
   
 }
 
 h1 {
-  font-family: Inter-Bold;
-  font-weight: 200;
+  font-family: "Inter";
+  font-weight: 700;
   font-size: 3em;
 	margin: 1em 0em; /*Change the first value to change the y-axis margin*/
   margin-bottom: -50px;
@@ -69,8 +69,8 @@ h1 {
 }
 
 h4 {
-  font-family: Inter-Medium;
-  font-weight: 200;
+  font-family: "Inter";
+  font-weight: 500;
 	margin: 0.5em 0em; /*Change the first value to change the y-axis margin*/
 }
 
@@ -128,7 +128,7 @@ mark {
 }
 
 marktopgg { 
-  background-color: rgb(158, 241, 165);
+  background-color: rgb(94, 230, 105);
   color: rgb(211, 8, 8);
 }
 
