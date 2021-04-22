@@ -128,8 +128,14 @@ mark {
 }
 
 marktopgg { 
-  background-color: rgb(94, 230, 105);
+  background-color: rgb(174, 245, 179);
   color: rgb(211, 8, 8);
+}
+
+
+markalert { 
+  background-color: rgb(253, 255, 146);
+  color: rgb(0, 0, 0);
 }
 
 .container {
