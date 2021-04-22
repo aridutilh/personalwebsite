@@ -2,6 +2,7 @@ html,
 body {
   padding-left: 5em;
   padding-top: 5em;
+  font-family: 'Inter', sans-serif;
 }
 
 
@@ -27,20 +28,51 @@ a {
   text-decoration: none;
 }
 
+h3 {
+  font-family: Inter-Medium;
+  font-weight: 200;
+  color: rgb(51, 51, 51);
+	margin: 1em 0em; /*Change the first value to change the y-axis margin*/
+  padding: 3% 0;
+}
+
 h4 li {
   display: inline-block;
-  margin-right: 20px;
+  margin-right: 10px;
 	font-size: 1em;
 }
 
+h5 {
+  font-family: Inter-Medium;
+  font-weight: 200;
+  margin: 1em 2em;
+  color: rgb(58, 58, 58);
+}
 
-h4, h3 {
+h2 {
+  font-family: Inter-Bold;
+  font-weight: 200;
+	margin: 1em 0em; /*Change the first value to change the y-axis margin*/
+  margin-bottom: -50px;
+  padding: 3% 0;
+  
+}
+
+h1 {
+  font-family: Inter-Bold;
+  font-weight: 200;
+  font-size: 3em;
+	margin: 1em 0em; /*Change the first value to change the y-axis margin*/
+  margin-bottom: -50px;
+  padding: 3% 0;
+  
+}
+
+h4 {
   font-family: Inter-Medium;
   font-weight: 200;
 	margin: 0.5em 0em; /*Change the first value to change the y-axis margin*/
 }
-
-
 
 .main {
   margin: 0 10%;
@@ -107,22 +139,24 @@ mark {
 
 }
 
-.container {
+.container2 {
   flex-wrap: wrap;
   border-color: rgb(7, 7, 7);
   border-style: solid;
-  border-radius: 10px;
+  border-radius: 15px;
   max-width: 70%;
   border-width: 1px;
   padding: 2rem;
   margin-bottom: 10px;
 }
 
-body{
-  font-family: 'Inter', sans-serif;
-}
-
-h1,
-h3 {
-  padding: 3% 0;
+.container3 {
+  flex-wrap: wrap;
+  border-color: rgb(7, 7, 7);
+  border-style: solid;
+  border-radius: 15px;
+  max-width: 70%;
+  border-width: 1px;
+  padding: 2rem;
+  margin-bottom: 10px;
 }
