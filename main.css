@@ -173,3 +173,24 @@ markalert {
   padding: 2rem;
   margin-bottom: 10px;
 }
+
+.blogimg {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 1 4px;
+  size: 1em;
+}
+
+.img:hover{
+  color: #424242; 
+-webkit-transition: all .3s ease-in-out;
+-moz-transition: all .3s ease-in-out;
+-ms-transition: all .3s ease-in-out;
+-o-transition: all .3s ease-in-out;
+transition: all .3s ease-in-out;
+opacity: 1;
+transform: scale(1.15);
+-ms-transform: scale(1.15); /* IE 9 */
+-webkit-transform: scale(1.15); /* Safari and Chrome */
+
+}
