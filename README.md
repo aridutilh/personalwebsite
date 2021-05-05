@@ -12,4 +12,4 @@ Not sure for either of these yet, for a host I'll be using [Vercel](https://verc
 
 ## 🤔 Can I use this code as a template?
 
-I guess you could, I'm using [this website](https://ven.earth) as a reference point for mine, but I'm not blatantly copying anything. Because I'm a beginner, I want to use another site as sort of a crutch while I get the hang of things, and eventually I'll make the site individualistic. I would recommend you try and make your own site from scratch if you're a beginner like I am because you'll learn so much.
+I guess you could, I'm using [this website](https://ven.earth) as a reference point for mine, but I'm not blatantly copying anything. Because I'm a beginner, I want to use another site as sort of a crutch while I get the hang of things, and eventually I'll make the site individualistic. I would recommend you try and make your own site from scratch if you're a beginner like I am because you'll learn way quicker and better.
