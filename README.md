@@ -6,9 +6,15 @@ Written in Html & CSS.
 
 I'm using [Visual Studio](https://code.visualstudio.com), [Replit](https://replit.com), [Notion](https://notion.so), [JSFiddle](https://jsfiddle.net), & [W3Schools](https://w3schools.com).
 
+## ✍🏼 Blog Posts
+
+All code on the site is perfectly ok, but please do not copy or claim the blog posts I've written. All of the text, images, resources are made or curated by me, so I think it's fair enough to keep that protected. That being said, feel free to use the pages as templates though.  
+
 ## 🌐 Domain & Host
 
-Not sure for either of these yet, for a host I'll be using [Vercel](https://vercel.com) but I haven't figured out what domain I want to use yet. 
+For now, I'm using [Surge](https://surge.sh) which allows me to host the [Website](https://vagabondit.surge.sh) and it comes with a Tier 3 Domain for free. Eventually I'd love to use something like Vercel, but since the project isn't complete yet, and I'm low on money, this is what I'm using and it works really well!
+
+
 
 ## 🤔 Can I use this code as a template?
 
