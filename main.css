@@ -144,13 +144,15 @@ markalert {
   flex-wrap: wrap;
   border-color: rgb(7, 7, 7);
   border-style: solid;
-  border-radius: 10px;
+  border-radius: 15px;
   max-width: 70%;
-  border-width: 1px;
+  border-width: 0px;
   padding: 2rem;
+  background-color: rgb(235, 235, 235);
   margin-bottom: 10px;
 
 }
+
 
 .container2 {
   flex-wrap: wrap;
