@@ -195,33 +195,12 @@ markalert {
   max-width: 30%;
   border-width: 0px;
   padding: 2rem;
-  background-color: rgb(235, 235, 235);
+  background-color: rgb(247, 245, 245);
   margin-bottom: 10px;
 }
 
-.blogimg {
-  display: flex;
-  flex-wrap: wrap;
-  padding: 1 4px;
-  size: 1em;
-}
 
-img:hover{
-  color: #424242; 
-opacity: 1;
-transform: translateZ(0) scale(1.15, 1.15);
-}
 
-.img{
--webkit-transition: all .3s ease-in-out;
--moz-transition: all .3s ease-in-out;
--ms-transition: all .3s ease-in-out;
--o-transition: all .3s ease-in-out;
-transition: all .3s ease-in-out;
-filter: none !important;
 
-}
 
-.testimg img:hover{
-transform: rotate(10deg);
-}
+
