@@ -35,7 +35,13 @@ h3 {
 	margin: 1em 0em; /*Change the first value to change the y-axis margin*/
   padding: 2% 0;
 }
-
+h5 {
+  font-family: "Inter";
+  font-weight: 400;
+  color: rgb(51, 51, 51);
+	margin: 1em 0em; /*Change the first value to change the y-axis margin*/
+  padding: 2% 0;
+}
 h4 li {
   display: inline-block;
   margin-right: 10px;
