@@ -12,7 +12,7 @@ All code on the site is perfectly ok, but please do not copy or claim the blog p
 
 ## 🌐 Domain & Host
 
-For now, I'm using [Surge](https://surge.sh) which allows me to host the [Website](https://vagabondit.surge.sh) and it comes with a Tier 3 Domain for free. Eventually I'd love to use something like Vercel, but since the project isn't complete yet, and I'm low on money, this is what I'm using and it works really well!
+For now, I'm using [Surge](https://surge.sh) which allows me to host the [Website](https://vagabondit.surge.sh) and it comes with a Tier 3 Domain for free. Eventually I'd love to use something like Vercel, but since the project isn't complete yet, and I'm low on money, this is what I'm using and it works really well!  Setup for Surge ca be found on their website, once you instal it just use the terminal within VSC and type "surge". It will bring you through the process. 
 
 
 
