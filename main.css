@@ -205,7 +205,12 @@ markalert {
   margin-bottom: 10px;
 }
 
-
+.TransparentVagabondProfile img{
+  border-radius: 50%;
+  height: 100;
+  width: 15%;
+  display: inline-block;
+}
 
 
 
