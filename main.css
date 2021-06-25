@@ -212,6 +212,14 @@ markalert {
   display: inline-block;
 }
 
+nav {
+  display: flex;
+  align-items: center;
+  font-family: "Inter";
+  font-weight: 500;
+	margin: 0.5em 0em; /*Change the first value to change the y-axis margin*/
+}
 
-
-
+nav li {
+  list-style: none;
+}
