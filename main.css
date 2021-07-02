@@ -1,7 +1,7 @@
 html,
 body {
   padding-left: 5em;
-  padding-top: 5em;
+  padding-top: 2em;
   font-family: 'Inter', sans-serif;
 }
 
@@ -241,4 +241,16 @@ nav li {
   background-color: rgb(247, 245, 245);
   margin-bottom: 10px;
   display: flex;
+}
+
+.button-container {
+  flex-wrap: wrap;
+  border-color: rgb(7, 7, 7);
+  border-style: solid;
+  border-radius: 10px;
+  max-width: 11%;
+  border-width: 0px;
+  padding: 1rem;
+  background-color: rgb(247, 245, 245);
+
 }
