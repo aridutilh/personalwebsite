@@ -212,6 +212,33 @@ markalert {
   display: inline-block;
 }
 
+nav {
+  display: flex;
+  align-items: center;
+  font-family: "Inter";
+  font-weight: 500;
+	margin: 0.5em 0em; /*Change the first value to change the y-axis margin*/
+}
 
+nav li {
+  list-style: none;
+}
 
+.parent {
+  display: grid;
+  grid-gap: 20px;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  
+}
 
+.shop-container {
+  flex-wrap: wrap;
+  border-color: rgb(7, 7, 7);
+  border-style: solid;
+  border-radius: 15px;
+  border-width: 0px;
+  padding: 2rem;
+  background-color: rgb(247, 245, 245);
+  margin-bottom: 10px;
+  display: flex;
+}
