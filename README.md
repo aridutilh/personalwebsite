@@ -4,7 +4,7 @@ Written in Html & CSS.
 
 ## 🔨 Tools I'm using
 
-I'm using [Visual Studio](https://code.visualstudio.com), [Replit](https://replit.com), [Notion](https://notion.so), [JSFiddle](https://jsfiddle.net), & [W3Schools](https://w3schools.com).
+I'm using [Visual Studio](https://code.visualstudio.com), [Devcord (for human help)](https://discord.gg/devcord), [Notion (for easy markdown)](https://notion.so), & [W3Schools](https://w3schools.com).
 
 ## ✍🏼 Blog Posts
 
